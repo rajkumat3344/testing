@@ -1,0 +1,8 @@
+.cal{
+    display: flex;
+    justify-content: center;
+}
+
+mat-calendar{
+    width: 400px;
+}
